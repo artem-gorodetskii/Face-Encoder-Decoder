@@ -8,4 +8,3 @@ Generative Adversarial Network proposed by A. Radford et all. (https://arxiv.org
 # Results
 The first row shows original images directly from the dataset and the second row shows images that have been passed through the autoencoder.
 ![GitHub Logo](/images/results.png)
-Format: ![Alt Text](url)
